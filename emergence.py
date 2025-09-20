@@ -1,0 +1,1 @@
+# Wisdom emergence heuristics
